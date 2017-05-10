@@ -18,7 +18,7 @@ All as git submodules unless otherwise stated. Also not listing dependancies, on
 
 * If you haven't already, go over to [http://www.vagrantup.com/](http://www.vagrantup.com/) and follow the installation instructions
 * Add the box `precise64` via `vagrant box add precise64 http://files.vagrantup.com/precise64.box`
-* Clone this repo `git clone https://github.com/rob-murray/vagrant-javadev-box.git`
+* Clone this repo `git clone https://github.com/m4ttls/vagrant-javadev-box.git`
 * Init the submodules `git submodule update --init`
 * All done; `vagrant up` and box will be provisioned
 
